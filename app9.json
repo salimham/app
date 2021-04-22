@@ -1,0 +1,67 @@
+[
+  {
+    "title": "USA",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Flirt Deutschland",
+        "provider": "webview",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      },
+      {
+        "title": "Singles in der nähe",
+        "provider": "webview",
+        "arguments": [
+          "",
+          "usa_new"
+        ]
+      },
+      {
+        "title": "Flirt Community",
+        "provider": "webview",
+        "arguments": [
+          "https://www.awin1.com/cread.php?awinaffid=625033&awinmid=17403&platform=dl&ued=https%3A%2F%2Fwww.interfriendship.de%2F&clickref=landingpage2",
+          "usa_new"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
