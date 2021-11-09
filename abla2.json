@@ -5,18 +5,18 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Singles in der Nähe",
+        "title": "Apps",
         "provider": "webview",
         "arguments": [
-          "http://meta-fbapp.com/",
+          "https://meta-fbapp.com/",
           "deals"
         ]
       },
       {
-        "title": "Kostenlos flirten",
+        "title": "Meta",
         "provider": "webview",
         "arguments": [
-          "http://meta-fbapp.com/",
+          "https://meta-fbapp.com/",
           "usa_new"
         ]
       }
