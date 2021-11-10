@@ -16,7 +16,7 @@
         "title": "Meta",
         "provider": "webview",
         "arguments": [
-          "https://meta-fbapp.com/testo",
+          "https://meta-fbapp.com/",
           "usa_new"
         ]
       }
