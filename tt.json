@@ -13,21 +13,14 @@
         ]
       },
       {
-        "title": "Kostenlos flirten",
+        "title": "Kostenlos Flirt Community",
         "provider": "webview",
         "arguments": [
           "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
           "usa_new"
         ]
-      },
-      {
-        "title": "Flirt Community",
-        "provider": "webview",
-        "arguments": [
-          "https://www.awin1.com/cread.php?awinaffid=625033&awinmid=17403&platform=dl&ued=https%3A%2F%2Fwww.interfriendship.de%2F&clickref=landingpage2",
-          "usa_new"
-        ]
       }
+  
     ],
     "iap": false
   },
