@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Singles in der Nähe",
+        "title": "Kostenlos Flirt Community",
         "provider": "webview",
         "arguments": [
           "https://your-single.com/tds?tdsId=s3992kut_r&tds_campaign=s3992kut&utm_source=dd&utm_campaign=980ddfdb&s1=dd&utm_content=tt&data2={data2}&p5=fdd",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title": "Kostenlos Flirt Community",
+        "title": "Singles in der Nähe",
         "provider": "webview",
         "arguments": [
           "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
