@@ -17,16 +17,16 @@
     "iap": false
   },
   {
-    "title": "Other Countries",
+    "title": "Singles in der Nähe",
     "drawable": "",
     "submenu": "",
     "tabs": [
       {
         "title": "Top Films and series",
         "image": "",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
           "deals"
         ]
       }
