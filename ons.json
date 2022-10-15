@@ -24,9 +24,9 @@
       {
         "title": "Singles in der Nähe",
         "image": "",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
+          "",
           "deals"
         ]
       }
